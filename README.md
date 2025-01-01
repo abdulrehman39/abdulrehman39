@@ -1,6 +1,4 @@
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman39&theme=dark)<br/>
 # 💫 About Me:
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 35%; height: 35%; display: inline-block;" data-target="animated-image.originalImage">
 👋 Hi there, I’m @Abdulrehman39<br><br>🌱  I'm currently learning and building things with code.<br><br>👨‍💻 All of my projects are available at https://rehman-abdul.netlify.app/<br><br>📫 How to reach me <a href="mailto:abdulrehmanmemon2007@gmail.com">abdulrehmanmemon2007@gmail.com</a><br><br>📄 Know about my experiences https://rehman-abdul.netlify.app/#experience 
@@ -14,6 +12,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdulrehman39&theme=dark&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman39&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman39&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman39&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
